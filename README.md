@@ -1,5 +1,9 @@
-## Hi there 👋
-
+# About Me
+### I'm currently a Chemical Engineering undergraduate studying at the University of Birmingham who has recently completed their first year of study.
+### I want to develop my python coding ability and achieve fluency as well learn additional coding languages to a high level in the future.
+### I'm Looking to create a portfolio of work focusing on projects that relate to my degree program as evidence to future employers of my skills
+### Reach me at my email archiedando@icloud.com
+### Outside of university I'm a passionate climber and motorsport fan!
 <!--
 **Archie-Dando/Archie-Dando** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
